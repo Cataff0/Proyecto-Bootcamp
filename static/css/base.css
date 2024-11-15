@@ -1,0 +1,15 @@
+.navbar {background-color: #aad3aabb !important; /*verde*/}
+
+body {
+    background-color: #dbd8a4;
+    color: #2b2924; /*beige*/}
+
+    .btn-primary {
+        background-color: #662e28;
+        border-color: #e74c3c;
+    }
+    
+    .btn-primary:hover {
+        background-color: #c0392b;
+        border-color: #c0392b;
+    }
